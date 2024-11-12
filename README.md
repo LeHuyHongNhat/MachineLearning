@@ -6,7 +6,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24-orange)](https://scikit-learn.org/)
-[![MIT License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 </div>
 
@@ -46,31 +45,6 @@ This project is designed for beginners to explore the core concepts and techniqu
     ```bash
     cd MachineLearning
     ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Run Jupyter Notebook to explore examples interactively:
-    ```bash
-    jupyter notebook
-    ```
-
----
-
-## 📂 Project Structure
-
-```plaintext
-MachineLearning/
-│
-├── data/               # Datasets for experimentation
-├── notebooks/          # Step-by-step guides in Jupyter Notebook format
-├── scripts/            # Standalone Python scripts for each technique
-├── requirements.txt    # List of required packages
-└── LICENSE             # Project license
-```
-
----
 
 ## 🧰 Technologies Used
 
@@ -83,12 +57,6 @@ MachineLearning/
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 
 </div>
-
----
-
-## 📄 License
-
-This project is distributed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
